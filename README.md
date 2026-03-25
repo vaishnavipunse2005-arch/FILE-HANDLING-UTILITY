@@ -1,11 +1,20 @@
 # FILE-HANDLING-UTILITY
+
 "COMPANY": CODTECH IT SOLUTIONS
+
 "NAME": VAISHNAVI PUNSE
+
 "INTERN ID" : CTIS6853
+
 "DOMAIN" : JAVA PROGRAMMING 
+
 "DURATION" : 4 WEEKS 
-"MENTOR" : NEELA SANTOSH KUMAR
-"DESCRIPTION" : 1. Introduction
+
+"MENTOR" : NEELA SANTOSH 
+
+"DESCRIPTION" :
+
+1. Introduction
 In the modern software development landscape, the ability to interact with the host file system is a fundamental skill. Whether it is logging application events, saving user configurations, or processing large datasets, file I/O (Input/Output) serves as the bridge between volatile memory and persistent storage. This project, titled File Handling Utility, demonstrates a robust implementation of these core operations using the Java programming language. It is designed to serve as a practical internship deliverable, showcasing clean code architecture and modern API usage.
 
 2. Technical Architecture
